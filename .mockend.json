@@ -2,7 +2,7 @@
   "User": {
     "firstName": "string",
     "lastName": "string",
-    "Skills": "Skill[]"
+    "skills": "Skill[]"
   },
   "Skill": {
     "title": "string",
