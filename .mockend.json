@@ -7,5 +7,6 @@
   "Skill": {
     "title": "String",
     "desciption": "String"
+    "user": "User"
   }
 }
