@@ -1,13 +1,12 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "User": {
+    "id": 1,
+    "firstName": "String",
+    "lastName": "boolean",
+    "Skills": "Skill[]"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "Skill": {
+    "title": "String",
+    "desciption": "String"
   }
 }
