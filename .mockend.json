@@ -6,7 +6,7 @@
   },
   "Skill": {
     "title": "string",
-    "desciption": "string",
+    "description": "string",
     "user": "User"
   }
 }
