@@ -1,12 +1,12 @@
 {
   "User": {
-    "firstName": "String",
-    "lastName": "String",
+    "firstName": "string",
+    "lastName": "string",
     "Skills": "Skill[]"
   },
   "Skill": {
-    "title": "String",
-    "desciption": "String",
+    "title": "string",
+    "desciption": "string",
     "user": "User"
   }
 }
