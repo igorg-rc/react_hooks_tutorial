@@ -1,6 +1,5 @@
 {
   "User": {
-    "id": 1,
     "firstName": "String",
     "lastName": "boolean",
     "Skills": "Skill[]"
